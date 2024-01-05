@@ -1,0 +1,9 @@
+{
+    "label": "Ballast and Bumpers",
+    "position": 7,
+    "link": {
+      "type": "generated-index",
+      "description": "The robot needs some additional weight low in the robot for better driving. Additionally we need bumpers to legally compete and protect the robot."
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "label": "Arm",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "The arm hosts the intake. It has two main positions stowed or fully extended that are governed by a hardstop. The arm can be built independent of the intake and superstructure."
+    }
+  }
+  

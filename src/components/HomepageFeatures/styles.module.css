@@ -1,0 +1,42 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.details {
+  text-decoration: var(--ifm-link-decoration);
+  --ifm-code-background: var(--ifm-alert-background-color-highlight);
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-link-hover-color: var(--ifm-link-color);
+  background-color: var(--ifm-alert-background-color);
+  color: var(--ifm-font-color-base);
+  transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+  --ifm-breadcrumb-item-background-active: var(--ifm-hover-overlay);
+  --ifm-menu-link-sublist-icon-filter: invert(100%) sepia(94%) saturate(17%) hue-rotate(223deg) brightness(104%) contrast(98%);
+  --ifm-link-decoration: none;
+  --ifm-link-hover-decoration: none;
+  font-size: 1rem;
+  --docusaurus-collapse-button-bg: transparent;
+  --docusaurus-collapse-button-bg-hover: rgb(0 0 0 / 10%);
+  --ifm-hover-overlay: rgba(0, 0, 0, 0.05);
+  --ifm-active-background: var(--ifm-hover-overlay);
+}
+
+.updates {
+  font-size: var (--ifm-h3-font-size);
+  font-weight: var (--ifm-font-weight-bold);
+  margin-bottom: 1rem !important;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}

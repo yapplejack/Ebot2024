@@ -1,0 +1,9 @@
+{
+    "label": "Intake",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "The is attached to the arm and allows the Everybot to acquire both cones and cubes."
+    }
+  }
+  
